@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ka Lung Cheung"
+title                    : "Ka Lung Cheung's Hompage"
 title_separator          : "-"
 name                     : &name "Ka Lnug Cheung"
 description              : &description "personal description"
 url                      : "https://kg571852741.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/publications"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kg571852741/kg571852741.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -21,7 +21,7 @@ repository               : "kg571852741/kg571852741.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "klcheung-1918x2000-5mb.png"
+  avatar           : "profile.png"
   name             : "Ka Lung Cheung"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student @ CUHK | Smart Cities | 3D Vision & Data Synthesis | Scene Reconstruction"
@@ -31,7 +31,7 @@ author:
   email            : "klcheung@mae.cuhk.edu.hk" 
 
   # Academic websites
-  arxiv            : https://arxiv.org/search/cs?searchtype=author&query=Cheung,+K+L
+  arxiv            : "https://arxiv.org/search/cs?searchtype=author&query=Cheung,+K+L"
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0002-0527-6463"
@@ -82,7 +82,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : "google-universal" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
