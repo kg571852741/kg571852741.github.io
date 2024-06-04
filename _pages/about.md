@@ -14,12 +14,11 @@ My current research projects include the development of a fully-automated Scan-t
 
 In the past, I conducted research on the Urban Heat Island effect, focusing on simulating and predicting canopy-level urban air temperatures at the neighborhood scale. Additionally, I contributed to synthetic architectural exterior dataset and fully automated scan-to-BIM pipeline with ViT.
 
-<center>
+<!-- <center>
 
 [Email](klcheung@mae.cuhk.edu.hk) / [Github](https://github.com/kg571852741) / [Google Scholar](https://scholar.google.com/citations?user=mu86hVMAAAAJ&hl=en)
 
-</center>
-
+</center> -->
 
 <!-- Getting started
 ======
