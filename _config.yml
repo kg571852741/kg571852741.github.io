@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0002-0527-6463"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : https://www.researchgate.net/profile/Ka-Lung-Cheung
+  researchgate     : "https://www.researchgate.net/profile/Ka-Lung-Cheung"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
