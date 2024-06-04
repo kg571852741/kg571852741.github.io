@@ -21,7 +21,7 @@ repository               : "kg571852741/kg571852741.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-daniel.png"
   name             : "Ka Lung Cheung"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student @ CUHK | Smart Cities | 3D Vision & Data Synthesis | Scene Reconstruction"
@@ -82,7 +82,7 @@ future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
-  provider               : "google-universal" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            :
   discourse:
