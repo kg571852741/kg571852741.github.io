@@ -54,12 +54,13 @@ I'm open to new collaborations and research opportunities. Feel free to [reach o
 <sup>1</sup>:Co-first authors
 
 <sup>\*</sup>:Corresponding authors
-#
+
+---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/arch2s-teaser.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds](https://arxiv.org/pdf/2406.01337). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. IEEE Transactions on Intelligent Transportation Systems. -->
-[ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds](https://arxiv.org/pdf/2406.01337). <span style="color: red;">(Oral)</span> **Ka Lung Cheung**, Chi Chung Lee. The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024 (CV4AEC-CVPRW).
+[ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds](https://arxiv.org/pdf/2406.01337). <span style="color: red;">(Oral)</span> **Ka Lung Cheung**, Chi Chung Lee. *The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (CVPRW) 2024*.
 
 </div>
 </div>
@@ -67,7 +68,7 @@ I'm open to new collaborations and research opportunities. Feel free to [reach o
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/srbim-teaser.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Towards Automating the Retrospective Generation of BIM Models: A Unified Framework for 3D Semantic Reconstruction of the Built Environment](https://arxiv.org/pdf/2406.01480). <span style="color: red;">(Oral)</span> **Ka Lung Cheung**, Chi Chung Lee. The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024 (CV4AEC-CVPRW).
+[Towards Automating the Retrospective Generation of BIM Models: A Unified Framework for 3D Semantic Reconstruction of the Built Environment](https://arxiv.org/pdf/2406.01480). <span style="color: red;">(Oral)</span> **Ka Lung Cheung**, Chi Chung Lee. *The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (CVPRW) 2024*.
 
 
 </div>
@@ -84,7 +85,7 @@ I'm open to new collaborations and research opportunities. Feel free to [reach o
 
 <span class='anchor' id='-presentations'></span>
 # Talks & Presentations
-- *2024.06*:  Computer Vision in the Built Environment ([CV4AEC-CVPR2024](https://cv4aec.github.io/)).
+- *2024*:  Computer Vision in the Built Environment ([CV4AEC-CVPR2024](https://cv4aec.github.io/)).
 
 
 <!-- # 📖 Educations
@@ -114,28 +115,22 @@ Beijing, China, 100084 \
 E-mail:  <skl23@nus.edu.sg> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@163.com>\
      &emsp;   -->
 <span class='anchor' id='-teaching'></span>
+
 # Teaching:
-- Spring 2023
-  - MAEG 4999 Final Year Project II
-    - Topic: Automatic Construction of BIM Models with Geometric and Semantically Rich Elements and Subtypes From 3D Point Cloud Data
+- *Spring 2023*: MAEG 4999 Final Year Project II: Automatic Construction of BIM Models with Geometric and Semantically Rich Elements and Subtypes From 3D Point Cloud Data
 
-- Fall 2023
-  - MAEG 4998 Final Year Project I
-    - Topic: Automatic Construction of BIM Models with Geometric and Semantically Rich Elements and Subtypes From 3D Point Cloud Data
+- *Fall 2023* MAEG 4998 Final Year Project I: Automatic Construction of BIM Models with Geometric and Semantically Rich Elements and Subtypes From 3D Point Cloud Data
 
-- Spring 2022
-  - EEEN 4999 Final Year Project II
-    - Topic: Estimating the impact of microclimate on building energy performances in high density urban contexts
+- *Spring 2022* EEEN 4999 Final Year Project II: Estimating the impact of microclimate on building energy performances in high density urban contexts
 
-- Fall 2022
-  - EEEN 4998 Final Year Project I
-    - Topic: Estimating the impact of microclimate on building energy performances in high density urban contexts
+- *Fall 2022* EEEN 4998 Final Year Project I: Estimating the impact of microclimate on building energy performances in high density urban contexts
+
 # Co-supervised students:
 - Ho Ting Chan, Undergraduates major in Mechanical and Automation Engineering (2023)
 - Kai Long Ng, Undergraduates major in Mechanical and Automation Engineering (2022)
 
 
-<span class='anchor' id='-education'></span>
+<span class='anchor' id='-educations'></span>
 # Educations
 - *2022 - present*, Ph.D in Mechanical and Automation Engineering, [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html)
 - *2018-2022*, B.Eng in Mechanical Engineering, [City University of Hong Kong](https://www.cityu.edu.hk/zh-hk)
