@@ -40,9 +40,9 @@ I'm open to new collaborations and research opportunities. Feel free to [reach o
 
 <span class='anchor' id='-news'></span>
 # News
-- *2024.06*: I will present two accepted papers in The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024  on Jun 17th, 2024, in Seattle, USA.
-- *2024.06*: One papers <span style="color: red;">(Oral)</span>  are accepted  by CVPRW 2024.
-- *2024.06*: One papers <span style="color: red;">(Oral)</span>  are accepted  by CVPRW 2024.
+- *2024.04*: I will be presenting two accepted papers in The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024  on Jun 17th, 2024, in Seattle, USA.
+- *2024.04*: One [paper](https://arxiv.org/pdf/2406.01337)<span style="color: red;">(Oral)</span>  are accepted  by CVPRW 2024.
+- *2024.04*: One [paper](https://arxiv.org/pdf/2406.01480) <span style="color: red;">(Oral)</span> are accepted  by CVPRW 2024.
 
 <!-- # Research Interests
 - **Scan-to-BIM**: Automated 3D modeling and semantic segmentation of built environment.
@@ -85,7 +85,7 @@ I'm open to new collaborations and research opportunities. Feel free to [reach o
 
 <span class='anchor' id='-presentations'></span>
 # Talks & Presentations
-- *2024*:  Computer Vision in the Built Environment ([CV4AEC-CVPR2024](https://cv4aec.github.io/)).
+- *2024*,  Computer Vision in the Built Environment ([CV4AEC-CVPR2024](https://cv4aec.github.io/)).
 
 
 <!-- # 📖 Educations
@@ -117,13 +117,13 @@ E-mail:  <skl23@nus.edu.sg> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@
 <span class='anchor' id='-teaching'></span>
 
 # Teaching:
-- *Spring 2023*: MAEG 4999 Final Year Project II: Automatic Construction of BIM Models with Geometric and Semantically Rich Elements and Subtypes From 3D Point Cloud Data
+- *Spring 2023*, MAEG 4999 Final Year Project II: Automatic Construction of BIM Models with Geometric and Semantically Rich Elements and Subtypes From 3D Point Cloud Data
 
-- *Fall 2023* MAEG 4998 Final Year Project I: Automatic Construction of BIM Models with Geometric and Semantically Rich Elements and Subtypes From 3D Point Cloud Data
+- *Fall 2023*, MAEG 4998 Final Year Project I: Automatic Construction of BIM Models with Geometric and Semantically Rich Elements and Subtypes From 3D Point Cloud Data
 
-- *Spring 2022* EEEN 4999 Final Year Project II: Estimating the impact of microclimate on building energy performances in high density urban contexts
+- *Spring 2022*, EEEN 4999 Final Year Project II: Estimating the impact of microclimate on building energy performances in high density urban contexts
 
-- *Fall 2022* EEEN 4998 Final Year Project I: Estimating the impact of microclimate on building energy performances in high density urban contexts
+- *Fall 2022*, EEEN 4998 Final Year Project I: Estimating the impact of microclimate on building energy performances in high density urban contexts
 
 # Co-supervised students:
 - Ho Ting Chan, Undergraduates major in Mechanical and Automation Engineering (2023)
