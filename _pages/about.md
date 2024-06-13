@@ -17,11 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Ka Lung Cheung, a Ph.D. candidate specializing in Mechanical and Automation Engineering at The Chinese University of Hong Kong (CUHK). Under the mentorship of [Prof. Ben Men Chen](https://scholar.google.com/citations?user=utlWXV0AAAAJ&hl=en) within the [CUHK Unmanned System Research Group](http://www.mae.cuhk.edu.hk/~usr/), my research lies on technologies that contribute to Smart Cities, 3D Vision, and Scan-to-BIM automation. 
+<span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
-My current research projects include the development of a fully-automated Scan-to-BIM framework, deep learning-based methodologies for photorealistic outdoor scenes synthesis and completion, as well as scene reconstruction and semantic segmentation.
+I am Ka Lung Cheung, a Ph.D. candidate specializing in Mechanical and Automation Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html) . Under the mentorship of [Prof. Ben Men Chen](https://scholar.google.com/citations?user=utlWXV0AAAAJ&hl=en) within the [CUHK Unmanned System Research Group](http://www.mae.cuhk.edu.hk/~usr/), my research lies on technologies that contribute to Smart Cities, 3D Vision, and Scan-to-BIM automation. 
 
-In the past, I conducted research on the Urban Heat Island effect, focusing on simulating and predicting canopy-level urban air temperatures at the neighborhood scale. Additionally, I contributed to synthetic architectural exterior dataset and fully automated scan-to-BIM pipeline with ViT. I have published at the top international AI  conferences and workshops. 
+My current research projects include the development of a fully-automated Scan-to-BIM framework, deep learning-based methodologies for photorealistic outdoor scenes synthesis and completion, as well as scene reconstruction and semantic segmentation. I have contributed to leading international AI conferences and workshops, as detailed in [Publication](#publications).
+
+<!-- In the past, I conducted research on the Urban Heat Island effect, focusing on simulating and predicting canopy-level urban air temperatures at the neighborhood scale. Additionally, I contributed to synthetic architectural exterior dataset and fully automated scan-to-BIM pipeline with ViT. -->
+
 
 
 
@@ -40,8 +43,11 @@ In the past, I conducted research on the Urban Heat Island effect, focusing on s
  
 
 # Publications 
+<sup>1</sup>:Co-first authors
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/arch2s-teaser.png' alt="sym" width="100%"></div></div>
+<sup>\*</sup>:Corresponding authors
+#
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/arch2s-teaser.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds](https://arxiv.org/pdf/2406.01337). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. IEEE Transactions on Intelligent Transportation Systems. -->
@@ -50,7 +56,7 @@ In the past, I conducted research on the Urban Heat Island effect, focusing on s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/srbim-teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/srbim-teaser.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Automating the Retrospective Generation of BIM Models: A Unified Framework for 3D Semantic Reconstruction of the Built Environment](https://arxiv.org/pdf/2406.01480). <span style="color: red;">(Oral)</span> **Ka Lung Cheung**, Chi Chung Lee. The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024 (CV4AEC-CVPW).
@@ -69,7 +75,7 @@ In the past, I conducted research on the Urban Heat Island effect, focusing on s
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # Oral Presentation
-- *2024.06*:  Computer Vision in the Built Environment CV4AEC @ CVPR 2024.
+- *2024.06*:  Computer Vision in the Built Environment ([CV4AEC-CVPR2024](https://cv4aec.github.io/)).
 
 <!-- # Reviewer
 IEEE ICCA -->
@@ -111,3 +117,7 @@ E-mail:  <skl23@nus.edu.sg> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@
 # Co-supervised students:
 - Ho Ting Chan, Undergraduates major in Mechanical and Automation Engineering (2023)
 - Kai Long Ng, Undergraduates major in Mechanical and Automation Engineering (2022)
+
+# Educations
+- *2022 - present*, Ph.D in Mechanical and Automation Engineering, [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html)
+- *2018-2022*, B.Eng in Mechanical Engineering, [City University of Hong Kong](https://www.cityu.edu.hk/zh-hk)
