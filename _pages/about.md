@@ -23,7 +23,7 @@ I am Ka Lung Cheung, a Ph.D. candidate specializing in Mechanical and Automation
 
 My current research projects include the development of a fully-automated Scan-to-BIM framework, deep learning-based methodologies for photorealistic outdoor scenes synthesis and completion, as well as scene reconstruction and semantic segmentation. I have contributed to leading international AI conferences and workshops, as detailed in [Publication](#publications).
 
-I'm open to new collaborations and research opportunities. Feel free to [reach out](klcheung@mae.cuhk.edu.hk) for discussions or idea sharing.
+I'm open to new collaborations and research opportunities. Feel free to [reach out](mailto:klcheung@mae.cuhk.edu.hk) for discussions or idea sharing.
 
 <!-- <center>
 
