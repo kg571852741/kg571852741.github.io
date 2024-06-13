@@ -1,54 +1,78 @@
 ---
 permalink: /
-title: "Ka Lung Cheung's Academic Pages"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
 I am Ka Lung Cheung, a Ph.D. candidate specializing in Mechanical and Automation Engineering at The Chinese University of Hong Kong (CUHK). Under the mentorship of [Prof. Ben Men Chen](https://scholar.google.com/citations?user=utlWXV0AAAAJ&hl=en) within the [CUHK Unmanned System Research Group](http://www.mae.cuhk.edu.hk/~usr/), my research lies on technologies that contribute to Smart Cities, 3D Vision, and Scan-to-BIM automation. 
 
-### Research
 My current research projects include the development of a fully-automated Scan-to-BIM framework, deep learning-based methodologies for photorealistic outdoor scenes synthesis and completion, as well as scene reconstruction and semantic segmentation.
 
-In the past, I conducted research on the Urban Heat Island effect, focusing on simulating and predicting canopy-level urban air temperatures at the neighborhood scale. Additionally, I contributed to synthetic architectural exterior dataset and fully automated scan-to-BIM pipeline with ViT.
+In the past, I conducted research on the Urban Heat Island effect, focusing on simulating and predicting canopy-level urban air temperatures at the neighborhood scale. Additionally, I contributed to synthetic architectural exterior dataset and fully automated scan-to-BIM pipeline with ViT. I have published at the top international AI  conferences and workshops. 
 
-<!-- <center>
 
-[Email](klcheung@mae.cuhk.edu.hk) / [Github](https://github.com/kg571852741) / [Google Scholar](https://scholar.google.com/citations?user=mu86hVMAAAAJ&hl=en)
 
-</center> -->
+<!-- with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-<!-- Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+# News
+- *2024.06*: I will present two accepted papers in The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024  on Jun 17th, 2024, in Seattle, USA.
+- *2024.06*: One papers <span style="color: red;">(Oral)</span>  are accepted  by CVPRW 2024.
+- *2024.06*: One papers <span style="color: red;">(Oral)</span>  are accepted  by CVPRW 2024.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<!-- # Research Interests
+- **Scan-to-BIM**: Automated 3D modeling and semantic segmentation of built environment.
+- **3D Vision**: Photorealistic outdoor scene synthesis and completion.
+- **Smart Cities**: Urban heat island effect and environmental monitoring. -->
+ 
 
-**Markdown generator**
+# Publications 
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/arch2s-teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<!-- [ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds](https://arxiv.org/pdf/2406.01337). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. IEEE Transactions on Intelligent Transportation Systems. -->
+[ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds](https://arxiv.org/pdf/2406.01337). <span style="color: red;">(Oral)</span> **Ka Lung Cheung**, Chi Chung Lee. The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024 (CV4AEC-CVPW).
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+</div>
+</div>
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/srbim-teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Towards Automating the Retrospective Generation of BIM Models: A Unified Framework for 3D Semantic Reconstruction of the Built Environment](https://arxiv.org/pdf/2406.01480). <span style="color: red;">(Oral)</span> **Ka Lung Cheung**, Chi Chung Lee. The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024 (CV4AEC-CVPW).
+
+
+</div>
+</div>
+
+
+<!-- # 🎖 Honors and Awards
+- *2024.06* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+<!-- # 📖 Educations
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+# Oral Presentation
+- *2024.06*,  Computer Vision in the Built Environment CV4AEC @ CVPR 2024.
+
+<!-- # Reviewer
+IEEE ICCA -->
+
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
