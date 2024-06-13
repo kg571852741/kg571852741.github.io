@@ -125,7 +125,7 @@ E-mail:  <skl23@nus.edu.sg> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@
 
 - *Fall 2022*, EEEN 4998 Final Year Project I: Estimating the impact of microclimate on building energy performances in high density urban contexts
 
-# Co-supervised students:
+# Mentoring students:
 - Ho Ting Chan, Undergraduates major in Mechanical and Automation Engineering (2023)
 - Kai Long Ng, Undergraduates major in Mechanical and Automation Engineering (2022)
 
