@@ -47,7 +47,7 @@ My current research projects include the development of a fully-automated Scan-t
 
 <sup>\*</sup>:Corresponding authors
 #
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/arch2s-teaser.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/arch2s-teaser.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds](https://arxiv.org/pdf/2406.01337). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. IEEE Transactions on Intelligent Transportation Systems. -->
@@ -56,7 +56,7 @@ My current research projects include the development of a fully-automated Scan-t
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/srbim-teaser.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/srbim-teaser.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Towards Automating the Retrospective Generation of BIM Models: A Unified Framework for 3D Semantic Reconstruction of the Built Environment](https://arxiv.org/pdf/2406.01480). <span style="color: red;">(Oral)</span> **Ka Lung Cheung**, Chi Chung Lee. The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024 (CV4AEC-CVPW).
@@ -65,10 +65,16 @@ My current research projects include the development of a fully-automated Scan-t
 </div>
 </div>
 
+<span class='anchor' id='-Awards'></span>
+# Awards,Fellowships & Grants
+- *2023*, Tuition Waiver for Local Research Postgraduate Students, University Grants Committee
+- *2023*, Gold Award, Chun Wo Innovation Student Awards 
+- *2023*, The Best Business Potential Award , Chun Wo Innovation Student Awards
+- *2023*, The Best Business Idea Award, YDC Dare to Change Business Pitch Competition, Young Entrepreneurs Development Council
+- *2023*, Bronze Medal, International Exhibition of Invention Geneva
+- *2023*, Champion, Postgraduate Group, Professor Charles K. Ko Student Creativity Award, The Chinese University of Hong Kong 
 
-<!-- # 🎖 Honors and Awards
-- *2024.06* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
 
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
