@@ -42,7 +42,7 @@ I'm open to new collaborations and research opportunities. Feel free to [reach o
 # News
 - *2024.04*: I will be presenting two accepted papers in The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024  on Jun 17th, 2024, in Seattle, USA.
 - *2024.04*: One [paper](https://arxiv.org/pdf/2406.01337)<span style="color: red;">(Oral)</span>  are accepted  by CVPRW 2024.
-- *2024.04*: One [paper](https://arxiv.org/pdf/2406.01480) <span style="color: red;">(Oral)</span> are accepted  by CVPRW 2024.
+- *2024.04*: One [paper](https://arxiv.org/pdf/2406.01480)<span style="color: red;">(Oral)</span> are accepted  by CVPRW 2024.
 
 <!-- # Research Interests
 - **Scan-to-BIM**: Automated 3D modeling and semantic segmentation of built environment.
