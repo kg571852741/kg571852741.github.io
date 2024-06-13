@@ -69,10 +69,45 @@ In the past, I conducted research on the Urban Heat Island effect, focusing on s
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # Oral Presentation
-- *2024.06*,  Computer Vision in the Built Environment CV4AEC @ CVPR 2024.
+- *2024.06*:  Computer Vision in the Built Environment CV4AEC @ CVPR 2024.
 
 <!-- # Reviewer
 IEEE ICCA -->
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+<!-- # 📞 Contact
+
+[Department of Built Environment](https://cde.nus.edu.sg/dbe/) \
+National University of Singapore \
+SDE2-02-07 \
+Singapore, 117566 \
+
+[Department of Automation](https://www.au.tsinghua.edu.cn/) \
+[Tsinghua University](https://www.tsinghua.edu.cn/en/) \
+
+FIT Building 3-624 \
+Beijing, China, 100084 \
+E-mail:  <skl23@nus.edu.sg> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@163.com>\
+     &emsp;   -->
+
+# Teaching:
+- Spring 2023
+  - MAEG 4999 Final Year Project II
+    - Topic: Automatic Construction of BIM Models with Geometric and Semantically Rich Elements and Subtypes From 3D Point Cloud Data
+
+- Fall 2023
+  - MAEG 4998 Final Year Project I
+    - Topic: Automatic Construction of BIM Models with Geometric and Semantically Rich Elements and Subtypes From 3D Point Cloud Data
+
+- Spring 2022
+  - EEEN 4999 Final Year Project II
+    - Topic: Estimating the impact of microclimate on building energy performances in high density urban contexts
+
+- Fall 2022
+  - EEEN 4998 Final Year Project I
+    - Topic: Estimating the impact of microclimate on building energy performances in high density urban contexts
+# Co-supervised students:
+- Ho Ting Chan, Undergraduates major in Mechanical and Automation Engineering (2023)
+- Kai Long Ng, Undergraduates major in Mechanical and Automation Engineering (2022)
