@@ -10,13 +10,17 @@ main:
     url: "/#-publications"
 
   - title: "Awards"
-    url: "/#-Awards"
+    url: "/#-awards"
+
+  - title: "Presentations"
+    url: "/#-presentations"
+
+  # - title: "Invited Talks"
+  #   url: "/#-invited-talks"
+  - title: "Teaching"
+    url: "/#-teaching"
 
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
 
-  - title: "Internships"
-    url: "/#-internships"
