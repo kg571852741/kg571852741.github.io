@@ -7,16 +7,16 @@
 
 # Site Settings
 title                    : "Home"
-description              : &description "personal description"
+description              : ##
 repository               : "https://kg571852741.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  "G-KECN50HGW6" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  "google-site-verification=RzP6FfqEZs6H3R0cnPCfCQzNaxO40onZVfO3TofPC7k" # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   :  "26497eb1eaa3cd27c604990700da41bd" # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Hong_Kong # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
