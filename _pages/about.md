@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
-I am Ka Lung Cheung, a Ph.D. candidate specializing in Mechanical and Automation Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html) . Under the mentorship of [Prof. Ben Men Chen](https://scholar.google.com/citations?user=utlWXV0AAAAJ&hl=en) within the [CUHK Unmanned System Research Group](http://www.mae.cuhk.edu.hk/~usr/), my research lies on technologies that contribute to Smart Cities, 3D Vision, and Scan-to-BIM automation. 
+I am Ka Lung Cheung, a Mphil student specializing in Mechanical and Automation Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html) . Under the mentorship of [Prof. Ben Men Chen](https://scholar.google.com/citations?user=utlWXV0AAAAJ&hl=en) within the [CUHK Unmanned System Research Group](http://www.mae.cuhk.edu.hk/~usr/), my research lies on technologies that contribute to Smart Cities, 3D Vision, and Scan-to-BIM automation. 
 
 My current research projects include the development of a fully-automated Scan-to-BIM framework, deep learning-based methodologies for photorealistic outdoor scenes synthesis and completion, as well as scene reconstruction and semantic segmentation. I have contributed to leading international AI conferences and workshops, as detailed in [Publication](#publications).
 
@@ -40,6 +40,7 @@ I'm open to new collaborations and research opportunities. Feel free to [reach o
 
 <span class='anchor' id='-news'></span>
 # News
+- *2024.06*: Two accepted papers were presnted in The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024  on Jun 17th, 2024, in Seattle, USA.
 - *2024.04*: I will be presenting two accepted papers in The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024  on Jun 17th, 2024, in Seattle, USA.
 - *2024.04*: One [paper](https://arxiv.org/pdf/2406.01337)<span style="color: red;">(Oral)</span>  are accepted  by CVPRW 2024.
 - *2024.04*: One [paper](https://arxiv.org/pdf/2406.01480)<span style="color: red;">(Oral)</span> are accepted  by CVPRW 2024.
