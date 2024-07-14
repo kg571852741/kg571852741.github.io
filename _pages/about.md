@@ -21,7 +21,7 @@ redirect_from:
 
 I am Ka Lung Cheung, a M.Phil. student specializing in Mechanical and Automation Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html) . Under the mentorship of [Prof. Ben Men Chen](https://scholar.google.com/citations?user=utlWXV0AAAAJ&hl=en) within the [CUHK Unmanned System Research Group](http://www.mae.cuhk.edu.hk/~usr/), my research lies on technologies that contribute to Smart Cities, 3D Vision, and Scan-to-BIM automation. 
 
-My current research projects include the development of a fully-automated Scan-to-BIM framework, deep learning-based methodologies for photorealistic outdoor scenes synthesis and completion, as well as scene reconstruction and semantic segmentation. I have contributed to leading international AI conferences and workshops, as detailed in [Publication](#publications).
+My current research projects include the development of a fully-automated Scan-to-BIM framework, deep learning-based methodologies for 3D assets, scenes synthesis, as well as semantic scene reconstruction, segmentation. I have contributed to leading international AI conference and workshop, as detailed in [Publication](#publications).
 
 I'm open to new collaborations and research opportunities. Feel free to [reach out](mailto:klcheung@mae.cuhk.edu.hk) for discussions or idea sharing.
 
@@ -40,6 +40,7 @@ I'm open to new collaborations and research opportunities. Feel free to [reach o
 
 <span class='anchor' id='-news'></span>
 # News
+
 - *2024.06*: Two accepted papers were presnted in The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024  on Jun 17th, 2024, in Seattle, USA.
 - *2024.04*: I will be presenting two accepted papers in The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024  on Jun 17th, 2024, in Seattle, USA.
 - *2024.04*: One [paper](https://arxiv.org/pdf/2406.01337)<span style="color: red;"> (Oral)</span>  are accepted  by CVPRW 2024.
@@ -77,18 +78,24 @@ I'm open to new collaborations and research opportunities. Feel free to [reach o
 
 <span class='anchor' id='-awards'></span>
 # Awards,Fellowships & Grants
-- *2023*, Tuition Waiver for Local Research Postgraduate Students, University Grants Committee
+- *2024*, Research Postgraduate Student Grant for Overseas Academic Activities, The Chinese University of Hong Kong
+- *2023*, Champion, Postgraduate Group, Professor Charles K. Ko Student Creativity Award, The Chinese University of Hong Kong 
+- *2023*, Bronze Medal, International Exhibition of Invention Geneva
 - *2023*, Gold Award, Chun Wo Innovation Student Awards 
 - *2023*, The Best Business Potential Award , Chun Wo Innovation Student Awards
 - *2023*, The Best Business Idea Award, YDC Dare to Change Business Pitch Competition, Young Entrepreneurs Development Council
-- *2023*, Bronze Medal, International Exhibition of Invention Geneva
-- *2023*, Champion, Postgraduate Group, Professor Charles K. Ko Student Creativity Award, The Chinese University of Hong Kong 
+- *2023*, Tuition Waiver for Local Research Postgraduate Students, University Grants Committee
+
+
 
 <span class='anchor' id='-presentations'></span>
 # Talks & Presentations
 - *2024*,  *"3D Architectural Models Dataset, Benchmark and Challenges"* (Poster & Oral), Computer Vision in the Built Environment. ([CV4AEC-CVPR2024](https://cv4aec.github.io/))
 - *2024*,  *"Automating the Retrospective Generation of BIM Models"* (Poster & Oral), Computer Vision in the Built Environment. ([CV4AEC-CVPR2024](https://cv4aec.github.io/))
 
+- *2023*,  *"Drone and AI-Based Digital Platform for Outdoor Built Asset Inspection and Information Management"*, [48th Geneva International Exhibition of Inventions](https://www.inventions-geneva.ch/en/home-en/), Geneva, Switzerland
+
+- *2023*, *"Drone and AI-Based Digital Platform for Outdoor Built Asset Inspection and Information Management"*, [Professor Charles K. Kao Student Creativity Awards](https://www.cintec.cuhk.edu.hk/pckksca/HTML/intro.html), The Chinese University of Hong Kong
 <!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -136,6 +143,5 @@ E-mail:  <skl23@nus.edu.sg> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@
 - *2022 - present*, M.Phil. in Mechanical and Automation Engineering, [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html)
 - *2018-2022*, B.Eng. in Mechanical Engineering, [City University of Hong Kong](https://www.cityu.edu.hk/zh-hk)
 
-<span class='anchor' id='-educations'></span>
 # Reviewer
 - *2024*, IEEE International Conference on Control and Automation (ICCA)
