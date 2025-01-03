@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
-I am Ka Lung Cheung, P.h.D student specializing in ophthalmology at [The Univrersity of Hong Kong](https://www.hku.hk/) . Under the mentorship of [Prof. Christopher K.S. Leung](https://www.ophthalmology.hku.hk/academic-and-clinical-staff-%E6%95%99%E5%AD%B8%E5%8F%8A%E8%87%A8%E5%BA%8A%E8%81%B7%E5%93%A1/professor-christopher-k-s-leung-%E6%A2%81%E5%95%9F%E4%BF%A1%E6%95%99%E6%8E%88)  my research lies on technologies that contribute to 3D Vision, and early glacoma detection and medical image analysis. I have contributed to leading international AI conference and workshop, as detailed in [Publication](#publications). 
+I am Ka Lung Cheung, P.h.D student specializing in ophthalmology at [The Univrersity of Hong Kong](https://www.hku.hk/). Under the mentorship of [Prof. Christopher K.S. Leung](https://www.ophthalmology.hku.hk/academic-and-clinical-staff-%E6%95%99%E5%AD%B8%E5%8F%8A%E8%87%A8%E5%BA%8A%E8%81%B7%E5%93%A1/professor-christopher-k-s-leung-%E6%A2%81%E5%95%9F%E4%BF%A1%E6%95%99%E6%8E%88), my research lies on technologies that contribute to 3D vision, early glacoma detection and medical image analysis. I have contributed to leading international AI conference and workshop and jounral, as detailed in [Publication](#publications). 
 
 <!-- My current research projects include deep learning-based methodologies for 3D assets synthesis, as well as semantic scene reconstruction, segmentation.  -->
 
@@ -41,11 +41,11 @@ I'm open to new collaborations and research opportunities. Feel free to [reach o
 <span class='anchor' id='-news'></span>
 # News
 
-- *2024.12*: Our [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306261924024462) are accepted</span> by Applied Energy.
+- *2024.12*: One [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306261924024462) are accepted by Applied Energy.
 - *2024.06*: Two accepted papers were presnted in The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024  on Jun 17th, 2024, in Seattle, USA.
 - *2024.04*: I will be presenting two accepted papers in The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024  on Jun 17th, 2024, in Seattle, USA.
-- *2024.04*: One [paper](https://arxiv.org/pdf/2406.01337)<span style="color: red;"> (Oral)</span>  are accepted  by CVPRW 2024.
-- *2024.04*: One [paper](https://arxiv.org/pdf/2406.01480)<span style="color: red;"> (Oral)</span> are accepted  by CVPRW 2024.
+- *2024.04*: One [paper](https://arxiv.org/pdf/2406.01337)<span style="color: red;"> (Oral)</span>  are accepted by CVPRW 2024.
+- *2024.04*: One [paper](https://arxiv.org/pdf/2406.01480)<span style="color: red;"> (Oral)</span> are accepted by CVPRW 2024.
 
 <!-- # Research Interests
 - **Scan-to-BIM**: Automated 3D modeling and semantic segmentation of built environment.
@@ -59,11 +59,11 @@ I'm open to new collaborations and research opportunities. Feel free to [reach o
 <sup>\*</sup>:Corresponding authors
 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/arch2s-teaser.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/micro_climate.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds](https://arxiv.org/pdf/2406.01337). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. IEEE Transactions on Intelligent Transportation Systems. -->
-[Integrating microclimate modelling with building energy simulation and solar photovoltaic potential estimation: The parametric analysis and optimization of urban design](https://www.sciencedirect.com/science/article/abs/pii/S0306261924024462). <span style="color: red;">(Oral)</span> **Ka Lung Cheung**, Chi Chung Lee. *Applied Energy*.
+[Integrating microclimate modelling with building energy simulation and solar photovoltaic potential estimation: The parametric analysis and optimization of urban design](https://www.sciencedirect.com/science/article/abs/pii/S0306261924024462). <span style="color: red;">(Oral)</span> Chenhang Bian, **Ka Lung Cheung**, Xi Chen*, Chi Cung Lee*.  *Applied Energy*.
 
 </div>
 </div>
@@ -72,7 +72,7 @@ I'm open to new collaborations and research opportunities. Feel free to [reach o
 <div class='paper-box-text' markdown="1">
 
 <!-- [ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds](https://arxiv.org/pdf/2406.01337). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. IEEE Transactions on Intelligent Transportation Systems. -->
-[ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds](https://arxiv.org/pdf/2406.01337). <span style="color: red;">(Oral)</span> Chenhang Bian, **Ka Lung Cheung**, Xi Chen, Chi Cung Lee. *The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (CVPRW) 2024*.
+[ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds](https://arxiv.org/pdf/2406.01337). <span style="color: red;">(Oral)</span> **Ka Lung Cheung**, Chi Chung Lee. *The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (CVPRW) 2024*.
 
 </div>
 </div>
@@ -89,9 +89,9 @@ I'm open to new collaborations and research opportunities. Feel free to [reach o
 <span class='anchor' id='-awards'></span>
 # Awards,Fellowships & Grants
 - *2024*, Research Postgraduate Student Grant for Overseas Academic Activities, The Chinese University of Hong Kong
-- *2023*, Champion, Postgraduate Group, Professor Charles K. Ko Student Creativity Award, The Chinese University of Hong Kong 
+- *2023*, Champion, Postgraduate Group, Professor Charles K. Ko Student Creativity Award, The Chinese University of Hong Kong
 - *2023*, Bronze Medal, International Exhibition of Invention Geneva
-- *2023*, Gold Award, Chun Wo Innovation Student Awards 
+- *2023*, Gold Award, Chun Wo Innovation Student Awards
 - *2023*, The Best Business Potential Award , Chun Wo Innovation Student Awards
 - *2023*, The Best Business Idea Award, YDC Dare to Change Business Pitch Competition, Young Entrepreneurs Development Council
 - *2023*, Tuition Waiver for Local Research Postgraduate Students, University Grants Committee
@@ -150,8 +150,8 @@ E-mail:  <skl23@nus.edu.sg> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@
 
 <span class='anchor' id='-educations'></span>
 # Educations
-- *2025 - Present*, P.h.D. in Ophthalmology, [The University of Hong Kong](https://www.hku.hk/)
-- *2022 - 2024*, M.Phil. in Mechanical and Automation Engineering, [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html)
+- *2025-Present*, Ph.D. in Ophthalmology, [The University of Hong Kong](https://www.hku.hk/)
+- *2022-2024*, M.Phil. in Mechanical and Automation Engineering, [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html)
 - *2018-2022*, B.Eng. in Mechanical Engineering, [City University of Hong Kong](https://www.cityu.edu.hk/zh-hk)
 
 # Reviewer

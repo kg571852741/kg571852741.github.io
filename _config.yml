@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Home"
-description              : "M.Phil. Student @ CUHK | Smart Cities | 3D Vision & Data Synthesis" ##
+description              : "Ph.D in Ophthalmology @ CUHK | Vision Science | 3D Vision & Data Synthesis" ##
 repository               : "https://kg571852741.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ka Lung Cheung"
   avatar           : "images/profile.png"
-  bio              : "The Chinese University of Hong Kong"
+  bio              : "The University of Hong Kong"
   location         : "Hong Kong SAR"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mu86hVMAAAAJ&hl=en"
-  email            : "klcheung@mae.cuhk.edu.hk"
+  email            : "dklcheung@connect.hku.hk"
   researchgate     : "https://www.researchgate.net/profile/Ka-Lung-Cheung"
   uri              :
   bitbucket        :
