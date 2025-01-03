@@ -19,7 +19,7 @@ redirect_from:
 
 <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
-I am Ka Lung Cheung, a M.Phil. student specializing in Mechanical and Automation Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html) . Under the mentorship of [Prof. Ben Men Chen](https://scholar.google.com/citations?user=utlWXV0AAAAJ&hl=en) within the [CUHK Unmanned System Research Group](http://www.mae.cuhk.edu.hk/~usr/), my research lies on technologies that contribute to Smart Cities, 3D Vision, and Scan-to-BIM automation. 
+I am Ka Lung Cheung, P.h.D student specializing in Mechanical and Automation Engineering at [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/english/index.html) . Under the mentorship of [Prof. Ben Men Chen](https://scholar.google.com/citations?user=utlWXV0AAAAJ&hl=en) within the [CUHK Unmanned System Research Group](http://www.mae.cuhk.edu.hk/~usr/), my research lies on technologies that contribute to Smart Cities, 3D Vision, and Scan-to-BIM automation. 
 
 My current research projects include the development of a fully-automated Scan-to-BIM framework, deep learning-based methodologies for 3D assets, scenes synthesis, as well as semantic scene reconstruction, segmentation. I have contributed to leading international AI conference and workshop, as detailed in [Publication](#publications).
 
@@ -41,7 +41,7 @@ I'm open to new collaborations and research opportunities. Feel free to [reach o
 <span class='anchor' id='-news'></span>
 # News
 
-- *2024.12*: Our [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306261924024462)<span style="color: red;"> are accepted</span> by *Applied Energy*.
+- *2024.12*: Our [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306261924024462) are accepted</span> by Applied Energy.
 - *2024.06*: Two accepted papers were presnted in The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024  on Jun 17th, 2024, in Seattle, USA.
 - *2024.04*: I will be presenting two accepted papers in The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024  on Jun 17th, 2024, in Seattle, USA.
 - *2024.04*: One [paper](https://arxiv.org/pdf/2406.01337)<span style="color: red;"> (Oral)</span>  are accepted  by CVPRW 2024.
@@ -63,7 +63,16 @@ I'm open to new collaborations and research opportunities. Feel free to [reach o
 <div class='paper-box-text' markdown="1">
 
 <!-- [ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds](https://arxiv.org/pdf/2406.01337). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. IEEE Transactions on Intelligent Transportation Systems. -->
-[ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds](https://arxiv.org/pdf/2406.01337). <span style="color: red;">(Oral)</span> **Ka Lung Cheung**, Chi Chung Lee. *The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (CVPRW) 2024*.
+[Integrating microclimate modelling with building energy simulation and solar photovoltaic potential estimation: The parametric analysis and optimization of urban design](https://www.sciencedirect.com/science/article/abs/pii/S0306261924024462). <span style="color: red;">(Oral)</span> **Ka Lung Cheung**, Chi Chung Lee. *Applied Energy*.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/arch2s-teaser.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<!-- [ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds](https://arxiv.org/pdf/2406.01337). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. IEEE Transactions on Intelligent Transportation Systems. -->
+[ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds](https://arxiv.org/pdf/2406.01337). <span style="color: red;">(Oral)</span> Chenhang Bian, **Ka Lung Cheung**, Xi Chen, Chi Cung Lee. *The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (CVPRW) 2024*.
 
 </div>
 </div>
