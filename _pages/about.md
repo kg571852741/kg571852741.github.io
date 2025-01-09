@@ -41,11 +41,11 @@ I'm open to new collaborations and research opportunities. Feel free to [reach o
 <span class='anchor' id='-news'></span>
 # News
 
-- *2024.12*: One [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306261924024462) are accepted by Applied Energy.
+- *2024.12*: One [paper](https://www.sciencedirect.com/science/article/abs/pii/S0306261924024462) is accepted by Applied Energy.
 - *2024.06*: Two accepted papers were presnted in The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024  on Jun 17th, 2024, in Seattle, USA.
 - *2024.04*: I will be presenting two accepted papers in The IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop 2024  on Jun 17th, 2024, in Seattle, USA.
-- *2024.04*: One [paper](https://arxiv.org/pdf/2406.01337)<span style="color: red;"> (Oral)</span>  are accepted by CVPRW 2024.
-- *2024.04*: One [paper](https://arxiv.org/pdf/2406.01480)<span style="color: red;"> (Oral)</span> are accepted by CVPRW 2024.
+- *2024.04*: One [paper](https://arxiv.org/pdf/2406.01337)<span style="color: red;"> (Oral)</span>  is accepted by CVPRW 2024.
+- *2024.04*: One [paper](https://arxiv.org/pdf/2406.01480)<span style="color: red;"> (Oral)</span> is accepted by CVPRW 2024.
 
 <!-- # Research Interests
 - **Scan-to-BIM**: Automated 3D modeling and semantic segmentation of built environment.
