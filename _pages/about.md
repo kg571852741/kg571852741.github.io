@@ -59,7 +59,7 @@ I'm open to new collaborations and research opportunities. Feel free to [reach o
 <sup>\*</sup>:Corresponding authors
 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/micro_climate.png' alt="sym" width="90%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AE</div><img src='images/micro_climate.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <!-- [ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds](https://arxiv.org/pdf/2406.01337). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. IEEE Transactions on Intelligent Transportation Systems. -->
