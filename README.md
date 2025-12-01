@@ -15,9 +15,10 @@ I am a Ph.D student in Ophthalmology at [The University of Hong Kong](https://ww
 - **Urban Microclimate Modeling** - Building energy simulation and photovoltaic potential estimation
 - **Deep Learning & AI** - Computer vision applications in the built environment and medical imaging
 
----
 
-## Key Publications
+<!-- --- -->
+
+<!-- ## Key Publications
 
 - **2024**: Applied Energy - "Integrating microclimate modelling with building energy simulation and solar photovoltaic potential estimation"
 - **2024**: CVPRW (Oral) - "ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds"
@@ -51,6 +52,6 @@ See more on [Google Scholar](https://scholar.google.com/citations?user=DhtAFkwAA
 - 📚 Google Scholar: [DhtAFkwAAAAJ](https://scholar.google.com/citations?user=DhtAFkwAAAAJ)
 - 🐦 Twitter: [@KaLungCheung](https://twitter.com) -->
 
----
+<!-- --- -->
 
 **Built with Jekyll & AcadHomepage Template**
