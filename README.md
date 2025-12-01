@@ -52,6 +52,6 @@ See more on [Google Scholar](https://scholar.google.com/citations?user=DhtAFkwAA
 - 📚 Google Scholar: [DhtAFkwAAAAJ](https://scholar.google.com/citations?user=DhtAFkwAAAAJ)
 - 🐦 Twitter: [@KaLungCheung](https://twitter.com) -->
 
-<!-- --- -->
+---
 
 **Built with Jekyll & AcadHomepage Template**
