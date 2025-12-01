@@ -4,7 +4,7 @@ A modern and responsive academic personal homepage.
 
 **Live Website:** https://kg571852741.github.io/
 
----
+<!-- --- -->
 
 <!-- ## About
 
@@ -25,7 +25,7 @@ I am a Ph.D student in Ophthalmology at [The University of Hong Kong](https://ww
 
 See more on [Google Scholar](https://scholar.google.com/citations?user=DhtAFkwAAAAJ) -->
 
----
+<!-- --- -->
 
 <!-- ## Awards & Honors
 
@@ -34,7 +34,7 @@ See more on [Google Scholar](https://scholar.google.com/citations?user=DhtAFkwAA
 - 🥉 Bronze Medal, International Exhibition of Invention Geneva (2023)
 - 🎯 Gold Award, Chun Wo Innovation Student Awards (2023) -->
 
----
+<!-- --- -->
 
 <!-- ## Education
 
@@ -42,7 +42,7 @@ See more on [Google Scholar](https://scholar.google.com/citations?user=DhtAFkwAA
 - **M.Phil. in Mechanical and Automation Engineering** (2022-2024) - The Chinese University of Hong Kong
 - **B.Eng. in Mechanical Engineering** (2018-2022) - City University of Hong Kong -->
 
----
+<!-- --- -->
 
 <!-- ## Connect
 
