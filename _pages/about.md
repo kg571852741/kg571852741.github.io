@@ -21,23 +21,6 @@ redirect_from:
 
 I am Ka Lung Cheung, Ph.D student in ophthalmology at [The University of Hong Kong](https://www.hku.hk/). Under the mentorship of [Prof. Christopher K.S. Leung](https://www.ophthalmology.hku.hk/academic-and-clinical-staff-%E6%95%99%E5%AD%B8%E5%8F%8A%E8%87%A8%E5%BA%8A%E8%81%B7%E5%93%A1/professor-christopher-k-s-leung-%E6%A2%81%E5%95%9F%E4%BF%A1%E6%95%99%E6%8E%88),My research focuses on deep learning for ophthalmology research. I have contributed to leading AI conferences, workshops, and journals, as detailed in [Publication](#publications). 
 
-<!-- My current research projects include deep learning-based methodologies for 3D assets synthesis, as well as semantic scene reconstruction, segmentation.  -->
-
-<!-- I'm open to new collaborations and research opportunities. Feel free to [reach out](mailto:dklcheung@connect.hku.hk) for discussions or idea sharing. -->
-
-<!-- <center>
-
-[Email](klcheung@mae.cuhk.edu.hk) / [Github](https://github.com/kg571852741) / [Google Scholar](https://scholar.google.com/citations?user=mu86hVMAAAAJ&hl=en)
-
-</center> -->
-
-<!-- In the past, I conducted research on the Urban Heat Island effect, focusing on simulating and predicting canopy-level urban air temperatures at the neighborhood scale. Additionally, I contributed to synthetic architectural exterior dataset and fully automated scan-to-BIM pipeline with ViT. -->
-
-
-
-
-<!-- with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-
 <span class='anchor' id='-news'></span>
 # News
 
@@ -47,11 +30,6 @@ I am Ka Lung Cheung, Ph.D student in ophthalmology at [The University of Hong Ko
 - *2024.04*: One [paper](https://arxiv.org/pdf/2406.01337)<span style="color: red;"> (Oral)</span>  is accepted by CVPRW 2024.
 - *2024.04*: One [paper](https://arxiv.org/pdf/2406.01480)<span style="color: red;"> (Oral)</span> is accepted by CVPRW 2024.
 
-<!-- # Research Interests
-- **Scan-to-BIM**: Automated 3D modeling and semantic segmentation of built environment.
-- **3D Vision**: Photorealistic outdoor scene synthesis and completion.
-- **Smart Cities**: Urban heat island effect and environmental monitoring. -->
- 
 <span class='anchor' id='-publications'></span>
 # Publications 
 <sup>1</sup>:Co-first authors
@@ -106,32 +84,6 @@ I am Ka Lung Cheung, Ph.D student in ophthalmology at [The University of Hong Ko
 - *2023*,  *"Drone and AI-Based Digital Platform for Outdoor Built Asset Inspection and Information Management"*, [48th Geneva International Exhibition of Inventions](https://www.inventions-geneva.ch/en/home-en/), Geneva, Switzerland
 
 - *2023*, *"Drone and AI-Based Digital Platform for Outdoor Built Asset Inspection and Information Management"*, [Professor Charles K. Kao Student Creativity Awards](https://www.cintec.cuhk.edu.hk/pckksca/HTML/intro.html), The Chinese University of Hong Kong
-<!-- # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-
-
-
-<!-- # Reviewer
-IEEE ICCA -->
-
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-
-<!-- # 📞 Contact
-
-[Department of Built Environment](https://cde.nus.edu.sg/dbe/) \
-National University of Singapore \
-SDE2-02-07 \
-Singapore, 117566 \
-
-[Department of Automation](https://www.au.tsinghua.edu.cn/) \
-[Tsinghua University](https://www.tsinghua.edu.cn/en/) \
-
-FIT Building 3-624 \
-Beijing, China, 100084 \
-E-mail:  <skl23@nus.edu.sg> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@163.com>\
-     &emsp;   -->
 <span class='anchor' id='-teaching'></span>
 
 # Teaching:
