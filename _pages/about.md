@@ -19,11 +19,11 @@ redirect_from:
 
 <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
-I am Ka Lung Cheung, P.h.D student specializing in ophthalmology at [The Univrersity of Hong Kong](https://www.hku.hk/). Under the mentorship of [Prof. Christopher K.S. Leung](https://www.ophthalmology.hku.hk/academic-and-clinical-staff-%E6%95%99%E5%AD%B8%E5%8F%8A%E8%87%A8%E5%BA%8A%E8%81%B7%E5%93%A1/professor-christopher-k-s-leung-%E6%A2%81%E5%95%9F%E4%BF%A1%E6%95%99%E6%8E%88), my research lies on technologies that contribute to 3D vision, early glacoma detection and medical image analysis. I have contributed to leading international AI conference and workshop and jounral, as detailed in [Publication](#publications). 
+I am Ka Lung Cheung, P.h.D student specializing in ophthalmology at [The Univrersity of Hong Kong](https://www.hku.hk/). Under the mentorship of [Prof. Christopher K.S. Leung](https://www.ophthalmology.hku.hk/academic-and-clinical-staff-%E6%95%99%E5%AD%B8%E5%8F%8A%E8%87%A8%E5%BA%8A%E8%81%B7%E5%93%A1/professor-christopher-k-s-leung-%E6%A2%81%E5%95%9F%E4%BF%A1%E6%95%99%E6%8E%88), my research focuses on leveraging computer vision technologies for glaucoma analysis. I have contributed to leading AI conferences, workshops, and journals, as detailed in [Publication](#publications). 
 
 <!-- My current research projects include deep learning-based methodologies for 3D assets synthesis, as well as semantic scene reconstruction, segmentation.  -->
 
-I'm open to new collaborations and research opportunities. Feel free to [reach out](mailto:dklcheung@connect.hku.hk) for discussions or idea sharing.
+<!-- I'm open to new collaborations and research opportunities. Feel free to [reach out](mailto:dklcheung@connect.hku.hk) for discussions or idea sharing. -->
 
 <!-- <center>
 
@@ -63,7 +63,7 @@ I'm open to new collaborations and research opportunities. Feel free to [reach o
 <div class='paper-box-text' markdown="1">
 
 <!-- [ARCH2S: Dataset, Benchmark and Challenges for Learning Exterior Architectural Structures from Point Clouds](https://arxiv.org/pdf/2406.01337). **Kailai Sun**, Xinwei Wang, Shaobo Liu<sup>\*</sup>, Qianchuan Zhao<sup>\*</sup>, Gao Huang, Chang Liu. IEEE Transactions on Intelligent Transportation Systems. -->
-[Integrating microclimate modelling with building energy simulation and solar photovoltaic potential estimation: The parametric analysis and optimization of urban design](https://www.sciencedirect.com/science/article/abs/pii/S0306261924024462). <span style="color: red;">(Oral)</span> Chenhang Bian, **Ka Lung Cheung**, Xi Chen*, Chi Cung Lee*.  *Applied Energy*.
+[Integrating microclimate modelling with building energy simulation and solar photovoltaic potential estimation: The parametric analysis and optimization of urban design](https://www.sciencedirect.com/science/article/abs/pii/S0306261924024462). <span style="color: red;"></span> Chenhang Bian, **Ka Lung Cheung**, Xi Chen*, Chi Cung Lee*.  *Applied Energy*.
 
 </div>
 </div>
@@ -152,7 +152,7 @@ E-mail:  <skl23@nus.edu.sg> &emsp;<skl.2018@tsinghua.org.cn> &emsp;<18813126518@
 # Educations
 - *2025-Present*, Ph.D. in Ophthalmology, [The University of Hong Kong](https://www.hku.hk/)
 - *2022-2024*, M.Phil. in Mechanical and Automation Engineering, [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html)
-- *2018-2022*, B.Eng. in Mechanical Engineering, [City University of Hong Kong](https://www.cityu.edu.hk/zh-hk)
+- *2018-2022*, B.Eng. in Mechanical Engineering, [City University of Hong Kong](https://www.cityu.edu.hk/)
 
 # Reviewer
 - *2024*, IEEE International Conference on Control and Automation (ICCA)

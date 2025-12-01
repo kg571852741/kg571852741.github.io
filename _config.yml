@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Home"
-description              : "Ph.D in Ophthalmology @ CUHK | Vision Science | 3D Vision & Data Synthesis" ##
+description              : "Ph.D in Ophthalmology @ HKU" ##
 repository               : "https://kg571852741.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -51,7 +51,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "Daniel571852741"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
