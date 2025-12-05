@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Home"
-description              : "Ph.D in Ophthalmology @ HKU" ##
+description              : "" ##
 repository               : "https://kg571852741.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ka Lung Cheung"
   avatar           : "images/profile.png"
-  bio              : "The University of Hong Kong"
+  bio              : ""
   location         : "Hong Kong SAR"
   employer         : 
   pubmed           : 
