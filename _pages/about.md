@@ -19,7 +19,10 @@ redirect_from:
 
 <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
-I am Ka Lung Cheung, Ph.D student in ophthalmology at [The University of Hong Kong](https://www.hku.hk/). Under the mentorship of [Prof. Christopher K.S. Leung](https://www.ophthalmology.hku.hk/academic-and-clinical-staff-%E6%95%99%E5%AD%B8%E5%8F%8A%E8%87%A8%E5%BA%8A%E8%81%B7%E5%93%A1/professor-christopher-k-s-leung-%E6%A2%81%E5%95%9F%E4%BF%A1%E6%95%99%E6%8E%88),My research focuses on deep learning for ophthalmology research. I have contributed to leading AI conferences, workshops, and journals, as detailed in [Publication](#publications). 
+I am Ka Lung Cheung, Ph.D student in Ophthalmology at [The University of Hong Kong](https://www.hku.hk/). My research focuses on deep learning for ophthalmology research. I have contributed to leading AI conferences, workshops, and journals, as detailed in [Publication](#publications). 
+
+<!-- Under the mentorship of [Prof. Christopher K.S. Leung](https://www.ophthalmology.hku.hk/academic-and-clinical-staff-%E6%95%99%E5%AD%B8%E5%8F%8A%E8%87%A8%E5%BA%8A%E8%81%B7%E5%93%A1/professor-christopher-k-s-leung-%E6%A2%81%E5%95%9F%E4%BF%A1%E6%95%99%E6%8E%88), -->
+
 
 <span class='anchor' id='-news'></span>
 # News
